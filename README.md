@@ -12,4 +12,9 @@ callback => mapStateToProps (state) (return {})
 $ yarn add redux-thunk
 This is also MIDDLEWARE
 
+### redux devtools
+https://github.com/zalmoxisus/redux-devtools-extension
+-> add extension to Chrome
+-> configure <- -> go to 1.2 Advanced store setup
+-> a tab "REDUX " will appear in devtools
 
